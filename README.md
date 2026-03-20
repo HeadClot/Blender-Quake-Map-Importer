@@ -21,4 +21,5 @@ Hit apply textures after. Your textures should now be applied to your Imported m
 
 **Limitations**:
 This only supports Valve 220 format quake 1 maps.
+
 This only supports .PNGs for textures.
