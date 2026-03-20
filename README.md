@@ -20,6 +20,6 @@ Navigate to where you have you textures in .PNG format and go into the folder th
 Hit apply textures after. Your textures should now be applied to your Imported map file.
 
 **Limitations**:
-This only supports Valve 220 format quake 1 maps.
 
+This only supports Valve 220 format quake 1 maps.
 This only supports .PNGs for textures.
