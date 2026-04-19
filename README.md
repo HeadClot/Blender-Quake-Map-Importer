@@ -26,5 +26,5 @@ This only supports .PNGs for textures.
 
 **Important Notes**: 
 
-I recommend to use Trenchbroom and then Select the Generic profile + Valve 220 format.
+I recommend to use Trenchbroom and then Select the built in Generic profile + Valve 220 format.
 Then load your PNGs into your trenchbroom textures folder.
